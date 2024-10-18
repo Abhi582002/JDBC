@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE employee SYSTEM "./emp.dtd">
+<employee>
+<empno>11</empno>
+<empname>aaa</empname>
+<empsal>23000</empsal>
+</employee>

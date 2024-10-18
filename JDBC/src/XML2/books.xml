@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE books SYSTEM "./books.dtd">
+
+<books>
+
+<book>
+<bookname>Core Java</bookname>
+<author>abcd</author>
+<price>1200</price>
+<publication>dreamtech</publication>
+</book>
+
+<book>
+<bookname>Adv Java</bookname>
+<author>pqr</author>
+<price>1200</price>
+</book>
+
+</books>
